@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">API Rest Project</string>
+    <string name="txt_optBottom_all">Todas</string>
+    <string name="txt_favorites">Favoritas</string>
+    <string name="txt_noConnection">No hay conexión a Internet</string>
+    <string name="txt_opt_sort">Orden alfabético</string>
+    <string name="txt_opt_random">Una palabra al azar</string>
+    <string name="txt_noFavs">No hay palabras favoritas</string>
+</resources>

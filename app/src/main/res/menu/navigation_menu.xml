@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/allWords"
+        android:icon="?android:attr/actionModeFindDrawable"
+        android:title="@string/txt_optBottom_all" />
+    <item
+        android:id="@+id/favoriteWords"
+        android:icon="@drawable/favorite_on"
+        android:title="@string/txt_favorites"
+        android:iconTint="?attr/colorPrimary"/>
+</menu>
